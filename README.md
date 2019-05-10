@@ -9,7 +9,7 @@ Docker image based on alpine with :
 
 Launch the container
 ```bash
-docker run --rm -it alphayax/rancher-cli
+docker run --rm -it redfabriq/rancher-cli
 ```
 
 Login to rancher
